@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="TestBench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="TestBench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="6161200fs"></ZoomStartTime>
+      <ZoomEndTime time="16045914fs"></ZoomEndTime>
+      <Cursor1Time time="20000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="195"></NameColumnWidth>
+      <ValueColumnWidth column_width="141"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="22" />
+   <wvobject fp_name="/TestBench/clk_tb" type="logic">
+      <obj_property name="ElementShortName">clk_tb</obj_property>
+      <obj_property name="ObjectShortName">clk_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench/rst_tb" type="logic">
+      <obj_property name="ElementShortName">rst_tb</obj_property>
+      <obj_property name="ObjectShortName">rst_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench/clk_period" type="other">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench/uut/rAM/rdA" type="other">
+      <obj_property name="ElementShortName">rdA</obj_property>
+      <obj_property name="ObjectShortName">rdA</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench/uut/rAM/rdB" type="other">
+      <obj_property name="ElementShortName">rdB</obj_property>
+      <obj_property name="ObjectShortName">rdB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench/uut/pe1/outc" type="other">
+      <obj_property name="ElementShortName">outc</obj_property>
+      <obj_property name="ObjectShortName">outc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench/uut/pe2/outc" type="other">
+      <obj_property name="ElementShortName">outc</obj_property>
+      <obj_property name="ObjectShortName">outc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench/uut/pe3/outc" type="other">
+      <obj_property name="ElementShortName">outc</obj_property>
+      <obj_property name="ObjectShortName">outc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench/uut/pe4/outc" type="other">
+      <obj_property name="ElementShortName">outc</obj_property>
+      <obj_property name="ObjectShortName">outc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench/uut/pe5/outc" type="other">
+      <obj_property name="ElementShortName">outc</obj_property>
+      <obj_property name="ObjectShortName">outc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench/uut/pe6/outc" type="other">
+      <obj_property name="ElementShortName">outc</obj_property>
+      <obj_property name="ObjectShortName">outc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench/uut/pe7/outc" type="other">
+      <obj_property name="ElementShortName">outc</obj_property>
+      <obj_property name="ObjectShortName">outc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench/uut/pe8/outc" type="other">
+      <obj_property name="ElementShortName">outc</obj_property>
+      <obj_property name="ObjectShortName">outc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench/uut/pe9/outc" type="other">
+      <obj_property name="ElementShortName">outc</obj_property>
+      <obj_property name="ObjectShortName">outc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench/uut/pe10/outc" type="other">
+      <obj_property name="ElementShortName">outc</obj_property>
+      <obj_property name="ObjectShortName">outc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench/uut/pe11/outc" type="other">
+      <obj_property name="ElementShortName">outc</obj_property>
+      <obj_property name="ObjectShortName">outc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench/uut/pe12/outc" type="other">
+      <obj_property name="ElementShortName">outc</obj_property>
+      <obj_property name="ObjectShortName">outc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench/uut/rAM/matrixA" type="array">
+      <obj_property name="ElementShortName">matrixA[1:4,1:5]</obj_property>
+      <obj_property name="ObjectShortName">matrixA[1:4,1:5]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench/uut/rAM/matrixB" type="array">
+      <obj_property name="ElementShortName">matrixB[1:5,1:3]</obj_property>
+      <obj_property name="ObjectShortName">matrixB[1:5,1:3]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench/uut/pe1/ram_a" type="array">
+      <obj_property name="ElementShortName">ram_a[0:11]</obj_property>
+      <obj_property name="ObjectShortName">ram_a[0:11]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench/uut/rAM/wr" type="other">
+      <obj_property name="ElementShortName">wr</obj_property>
+      <obj_property name="ObjectShortName">wr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench/uut/write" type="other">
+      <obj_property name="ElementShortName">write</obj_property>
+      <obj_property name="ObjectShortName">write</obj_property>
+   </wvobject>
+</wave_config>
